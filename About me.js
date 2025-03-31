@@ -5,8 +5,4 @@ $(document).ready(function(){
       
     })
     })
-    if ($("#Mode").click(function () {
-        
-    })) {
-        
-    }
+    
